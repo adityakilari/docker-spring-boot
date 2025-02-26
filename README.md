@@ -1,9 +1,9 @@
 # docker-spring-boot
 example of dockerized spring boot application
 
-This is a simple project demonstrate on how to do dockerize the spring application
+This is a simple project demonstrate on how to dockerize the spring application
 1. create the dockerfile in root dir
-2. Dockerfile contains following
+2. Dockerfile contains following :
     a. open jdk as a parent image
     b. add the working dir inside the container (optional), 
        this is like how we create diff packages inside our application for tracking
